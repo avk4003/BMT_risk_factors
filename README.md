@@ -13,7 +13,7 @@ Processed dataset - standardized, one-hot encoded, normalized, etc.
 Code for model training and evaluations
 
 ## logistic_model.pickle
-Our best model (Logistic Regression) from the trained models saved as a pickle file
+ best model (Logistic Regression) from the trained models saved as a pickle file
 
 ## prediction_page.py
 Streamlit app page for the user to input data and get prediction of patient outcomes
